@@ -32,14 +32,14 @@ header h1 {
   text-decoration: none;
 }
 
-/* ===== EXACT NAVBAR STYLING FOR YOUR HTML ===== */
+
 nav {
-  background-color: #1a1a2e; /* dark background like your image */
+  background-color: #1a1a2e; 
   display: flex;
-  justify-content: center; /* center all links in the navbar */
+  justify-content: center; 
   align-items: center;
-  gap: 5rem; /* spacing between Home | Custom | Sedan | SUV | Truck */
-  padding: 1.5rem 0; /* make navbar tall */
+  gap: 5rem;
+  padding: 1.5rem 0; 
 }
 
 nav a {
@@ -51,7 +51,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #00bcd4; /* hover color that matches your theme */
+  color: #00bcd4; 
   text-decoration: underline;
 }
 
